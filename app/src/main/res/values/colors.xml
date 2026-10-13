@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_primary">#2E7D32</color>
+    <color name="green_container">#C8E6C9</color>
+    <color name="green_on_container">#00210B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_muted">#616161</color>
+    <color name="warn_orange">#E65100</color>
+    <color name="expired_red">#C62828</color>
+    <color name="banner_bg">#FFF3E0</color>
+    <color name="launcher_background">#2E7D32</color>
+</resources>
